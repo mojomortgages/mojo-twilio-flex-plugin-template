@@ -2,6 +2,15 @@
 
 This is a template for creating Mojo Twilio plugins.
 
+## How to use
+
+1. Ensure the Twilio CLI is installed on your system
+2. Run the command
+
+```
+twilio flex:plugins:create <the name of your plugin> --template=https://github.com/mojomortgages/mojo-twilio-flex-plugin-template --install --typescript
+```
+
 ## What does this do?
 
 This template exists because there's some boilerplate code that gets annoying to copy over and over.
